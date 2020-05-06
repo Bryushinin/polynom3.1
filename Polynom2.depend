@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1588677189 source:c:\users\79194\desktop\ \Инфа\polynom - отправка\polynom2\main.cpp
+	"Polynom2_Header.h"
+
+1588677189 c:\users\79194\desktop\ \Инфа\polynom - отправка\polynom2\polynom2_header.h
+	<iostream>
+	<stdlib.h>
+
+1588677189 source:c:\users\79194\desktop\ \Инфа\polynom - отправка\polynom2\polynom2_source.cpp
+	"Polynom2_Header.h"
+
+1588790730 source:c:\users\79194\desktop\ \Инфа\polynom\polynom - отправка\polynom2\main.cpp
+	"polynom2_header.h"
+
+1588677189 c:\users\79194\desktop\ \Инфа\polynom\polynom - отправка\polynom2\polynom2_header.h
+	<iostream>
+	<stdlib.h>
+
+1588790730 source:c:\users\79194\desktop\ \Инфа\polynom\polynom - отправка\polynom2\polynom2_source.cpp
+	"polynom2_header.h"
+
